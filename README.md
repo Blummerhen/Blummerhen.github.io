@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://your-logo-url.png" alt="logo" width="150"/>
-</p>
+<!-- Header -->
+<div align="center" style="background-color:#A7C7E7; height:80px; border-radius: 8px;">
+</div>
 
-<h1 align="center">🌟 프로젝트 이름 🌟</h1>
+<!-- Title & Subtext -->
+<h1 align="center">Blummerhen</h1>
+<p align="center">dAiv</p>
 
-<p align="center">
-  간단하고 깔끔한 프로젝트 설명을 여기에 입력하세요.
-</p>
+<!-- Footer -->
+<div align="center" style="background-color:#A7C7E7; height:80px; border-radius: 8px;">
+</div>
